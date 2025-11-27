@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:14486/</loc>
+    <loc>//localhost:6007/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/categories/application/</loc>
+    <loc>//localhost:6007/categories/application/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/categories/architecture/</loc>
+    <loc>//localhost:6007/categories/architecture/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/blog/</loc>
+    <loc>//localhost:6007/blog/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/categories/</loc>
+    <loc>//localhost:6007/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/categories/data/</loc>
+    <loc>//localhost:6007/categories/data/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/blog/post-1/</loc>
+    <loc>//localhost:6007/blog/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/blog/post-2/</loc>
+    <loc>//localhost:6007/blog/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/blog/post-3/</loc>
+    <loc>//localhost:6007/blog/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/blog/post-4/</loc>
+    <loc>//localhost:6007/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/tags/nextjs/</loc>
+    <loc>//localhost:6007/tags/nextjs/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/tags/silicon/</loc>
+    <loc>//localhost:6007/tags/silicon/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/categories/software/</loc>
+    <loc>//localhost:6007/categories/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/tags/software/</loc>
+    <loc>//localhost:6007/tags/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/tags/</loc>
+    <loc>//localhost:6007/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/tags/tailwind/</loc>
+    <loc>//localhost:6007/tags/tailwind/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/categories/technology/</loc>
+    <loc>//localhost:6007/categories/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/tags/technology/</loc>
+    <loc>//localhost:6007/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:14486/authors/</loc>
+    <loc>//localhost:6007/authors/</loc>
   </url><url>
-    <loc>//localhost:14486/contact/</loc>
+    <loc>//localhost:6007/contact/</loc>
   </url><url>
-    <loc>//localhost:14486/elements/</loc>
+    <loc>//localhost:6007/elements/</loc>
   </url><url>
-    <loc>//localhost:14486/about/</loc>
+    <loc>//localhost:6007/about/</loc>
   </url><url>
-    <loc>//localhost:14486/authors/john-doe/</loc>
+    <loc>//localhost:6007/authors/john-doe/</loc>
   </url><url>
-    <loc>//localhost:14486/pages/</loc>
+    <loc>//localhost:6007/pages/</loc>
   </url><url>
-    <loc>//localhost:14486/privacy-policy/</loc>
+    <loc>//localhost:6007/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:14486/authors/sam-wilson/</loc>
+    <loc>//localhost:6007/authors/sam-wilson/</loc>
   </url><url>
-    <loc>//localhost:14486/sections/</loc>
+    <loc>//localhost:6007/sections/</loc>
   </url><url>
-    <loc>//localhost:14486/authors/william-jacob/</loc>
+    <loc>//localhost:6007/authors/william-jacob/</loc>
   </url>
 </urlset>
