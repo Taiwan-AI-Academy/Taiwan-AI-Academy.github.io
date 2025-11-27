@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delivery on Hugoplate</title>
+    <link>http://localhost:10096/categories/delivery/</link>
+    <description>Recent content in Delivery on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:10096/categories/delivery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shipping Faster with Feature Flags</title>
+      <link>http://localhost:10096/posts/shipping-faster-with-feature-flags/</link>
+      <pubDate>Wed, 03 Jul 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:10096/posts/shipping-faster-with-feature-flags/</guid>
+      <description>&lt;p&gt;Feature flags shine when they are boring: every experiment gets a name, an owner, and a removal plan. Keep the code path slim so toggling off is instant.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

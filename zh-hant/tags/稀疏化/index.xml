@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>稀疏化 on Hugoplate</title>
+    <link>http://localhost:10096/zh-hant/tags/%E7%A8%80%E7%96%8F%E5%8C%96/</link>
+    <description>Recent content in 稀疏化 on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 27 Nov 2025 09:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:10096/zh-hant/tags/%E7%A8%80%E7%96%8F%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI 研究人員介紹一種訓練 Weight-Sparse Transformers 的典範</title>
+      <link>http://localhost:10096/zh-hant/posts/openai-weight-sparse-transformers/</link>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:10096/zh-hant/posts/openai-weight-sparse-transformers/</guid>
+      <description>&lt;p&gt;在可解釋性領域中，一個核心目標是找出大型語言模型（LLM）中，人類可以理解的內部計算迴路。OpenAI 研究人員提出的 weight-sparse Transformer 典範，嘗試在訓練階段就強制模型形成結構化的稀疏權重，讓路徑與子模組的功能更可視、可解釋。具體作法是訓練一種權重稀疏化的 Transformer，使絕大多數權重為零；這樣可簡化計算，並引導模型把概念表示分散到多個殘差通道，最終得到較可解釋的計算迴路。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

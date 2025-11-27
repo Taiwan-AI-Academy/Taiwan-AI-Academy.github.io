@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugoplate</title>
+    <link>http://localhost:10096/zh-hant/tags/</link>
+    <description>Recent content in Tags on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 27 Nov 2025 09:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:10096/zh-hant/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transformer</title>
+      <link>http://localhost:10096/zh-hant/tags/transformer/</link>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:10096/zh-hant/tags/transformer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>可解釋性</title>
+      <link>http://localhost:10096/zh-hant/tags/%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7/</link>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:10096/zh-hant/tags/%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>稀疏化</title>
+      <link>http://localhost:10096/zh-hant/tags/%E7%A8%80%E7%96%8F%E5%8C%96/</link>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:10096/zh-hant/tags/%E7%A8%80%E7%96%8F%E5%8C%96/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

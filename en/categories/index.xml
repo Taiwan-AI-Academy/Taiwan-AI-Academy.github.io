@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hugoplate</title>
+    <link>https://taiwan-ai-academy.github.io/en/categories/</link>
+    <description>Recent content in Categories on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/ai/</link>
+      <pubDate>Tue, 01 Oct 2024 09:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/product/</link>
+      <pubDate>Tue, 01 Oct 2024 09:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/product/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/data/</link>
+      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guides</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/guides/</link>
+      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/guides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/design/</link>
+      <pubDate>Thu, 22 Aug 2024 16:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/frontend/</link>
+      <pubDate>Thu, 22 Aug 2024 16:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/frontend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Delivery</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/delivery/</link>
+      <pubDate>Wed, 03 Jul 2024 10:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/delivery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/engineering/</link>
+      <pubDate>Wed, 03 Jul 2024 10:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docs</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/docs/</link>
+      <pubDate>Tue, 11 Jun 2024 08:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/content/</link>
+      <pubDate>Sat, 18 May 2024 14:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/hugo/</link>
+      <pubDate>Sat, 18 May 2024 14:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Application</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/application/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/architecture/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/software/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://taiwan-ai-academy.github.io/en/categories/technology/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/categories/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

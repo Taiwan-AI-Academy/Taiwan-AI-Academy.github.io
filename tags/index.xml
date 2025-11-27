@@ -5,42 +5,28 @@
     <link>https://taiwan-ai-academy.github.io/tags/</link>
     <description>Recent content in Tags on Hugoplate</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 27 Nov 2025 09:00:00 +0800</lastBuildDate>
     <atom:link href="https://taiwan-ai-academy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nextjs</title>
-      <link>https://taiwan-ai-academy.github.io/tags/nextjs/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://taiwan-ai-academy.github.io/tags/nextjs/</guid>
+      <title>Transformer</title>
+      <link>https://taiwan-ai-academy.github.io/tags/transformer/</link>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/tags/transformer/</guid>
       <description></description>
     </item>
     <item>
-      <title>Silicon</title>
-      <link>https://taiwan-ai-academy.github.io/tags/silicon/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://taiwan-ai-academy.github.io/tags/silicon/</guid>
+      <title>可解釋性</title>
+      <link>https://taiwan-ai-academy.github.io/tags/%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7/</link>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/tags/%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7/</guid>
       <description></description>
     </item>
     <item>
-      <title>Software</title>
-      <link>https://taiwan-ai-academy.github.io/tags/software/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://taiwan-ai-academy.github.io/tags/software/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tailwind</title>
-      <link>https://taiwan-ai-academy.github.io/tags/tailwind/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://taiwan-ai-academy.github.io/tags/tailwind/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>https://taiwan-ai-academy.github.io/tags/technology/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://taiwan-ai-academy.github.io/tags/technology/</guid>
+      <title>稀疏化</title>
+      <link>https://taiwan-ai-academy.github.io/tags/%E7%A8%80%E7%96%8F%E5%8C%96/</link>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/tags/%E7%A8%80%E7%96%8F%E5%8C%96/</guid>
       <description></description>
     </item>
   </channel>

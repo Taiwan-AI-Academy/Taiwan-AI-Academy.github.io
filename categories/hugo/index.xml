@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Hugoplate</title>
+    <link>http://localhost:10096/categories/hugo/</link>
+    <description>Recent content in Hugo on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:10096/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keeping Hugo Content Organized</title>
+      <link>http://localhost:10096/posts/keeping-hugo-content-organized/</link>
+      <pubDate>Sat, 18 May 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:10096/posts/keeping-hugo-content-organized/</guid>
+      <description>&lt;p&gt;Use section folders to scope list templates, and keep shared taxonomies lean. When adding a new content type, start with a dedicated &lt;code&gt;_index.md&lt;/code&gt; that documents how to contribute.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

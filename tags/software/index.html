@@ -4,7 +4,7 @@
   class=""
   lang="en-us"
   itemtype="http://schema.org/WebPage">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=10096&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 
@@ -72,7 +72,7 @@
 
 
 
-  <base href="https://taiwan-ai-academy.github.io/tags/software/" />
+  <base href="http://localhost:10096/tags/software/" />
 
 
 
@@ -155,8 +155,8 @@
       
       
       
-        <meta property="og:image" content="https://taiwan-ai-academy.github.io/images/og-image.png" />
-        <meta name="twitter:image" content="https://taiwan-ai-academy.github.io/images/og-image.png" />
+        <meta property="og:image" content="http://localhost:10096/images/og-image.png" />
+        <meta name="twitter:image" content="http://localhost:10096/images/og-image.png" />
         <meta
           name="twitter:card"
           content="summary_large_image" />
@@ -183,7 +183,7 @@
 <meta property="og:title" content="Hugoplate" />
 <meta property="og:description" content="Hugo &amp; Tailwindcss Starter" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://taiwan-ai-academy.github.io/tags/software/" />
+<meta property="og:url" content="http://localhost:10096/tags/software/" />
 
 
 <meta name="twitter:title" content="Hugoplate" />
@@ -214,7 +214,7 @@
 
 
 <script>
-  let indexURL = "https://taiwan-ai-academy.github.io/searchindex.json";
+  let indexURL = "http://localhost:10096/searchindex.json";
   let includeSectionsInSearch = ["blog"];
   let search_no_results = "No results for";
   let search_initial_message = "Type something to search..";
@@ -320,22 +320,19 @@
 
 
 
-  
-  
-
 
 
 
 <link
-  href="/css/style.b8c004fcbb641a73c7cae1ed202d974a876d1ca0324ab34b1b569d613be9b390.css"
-  integrity="sha256-uMAE/LtkGnPHyuHtIC2XSodtHKAySrNLG1adYTvps5A="
+  href="/css/style.css"
+  integrity=""
   rel="stylesheet" />
 
 
 <link
   rel="stylesheet"
-  href="/css/style-lazy.min.9e7e035d2f064fe004383f2ffc11a8f2966ef7b51c5fb2fac926e35c0061b5cf.css"
-  integrity="sha256-nn4DXS8GT&#43;AEOD8v/BGo8pZu97UcX7L6ySbjXABhtc8="
+  href="/css/style-lazy.css"
+  integrity=""
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -349,7 +346,18 @@
 
 
 
+
+
       
+      <div
+  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
 
     
 
@@ -583,6 +591,20 @@
         
         
         
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/posts"
+              >Posts</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
           <li class="nav-item nav-dropdown group relative">
             <input
               type="checkbox"
@@ -706,6 +728,64 @@
       
 
       
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+  
+
+
+<div class="relative inline-flex items-center text-text-dark dark:text-white mr-5">
+  <i class="fa-solid fa-earth-americas mr-2 text-base"></i>
+  <div class="relative">
+    <select
+      class="appearance-none cursor-pointer rounded border border-border bg-white pl-3 pr-8 py-1 text-sm dark:border-darkmode-border dark:bg-darkmode-light focus:outline-none focus:ring-2 focus:ring-primary transition"
+      onchange="location = this.value">
+      
+        
+        
+        
+          <option
+            id="en"
+            value="http://localhost:10096/tags/software/"
+          
+            selected
+          
+            >
+            En
+          </option>
+        
+      
+        
+        
+        
+          <option
+            id="zh-hant"
+            value="http://localhost:10096/zh-hant/"
+          
+            >
+            繁體中文
+          </option>
+        
+      
+    </select>
+    <span class="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-xs text-text-light dark:text-darkmode-text">
+      <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 10.94l3.71-3.71a.75.75 0 1 1 1.06 1.06l-4.24 4.24a.75.75 0 0 1-1.06 0L5.21 8.29a.75.75 0 0 1 .02-1.08z" />
+      </svg>
+    </span>
+  </div>
+</div>
+
 
       
 
@@ -924,7 +1004,7 @@
 
 <ul class="mt-6 inline-flex space-x-1 capitalize">
   <li>
-    <a class="text-primary dark:text-darkmode-primary" href="https://taiwan-ai-academy.github.io/">
+    <a class="text-primary dark:text-darkmode-primary" href="http://localhost:10096/">
       Home
     </a>
     <span class="inlin-block mr-1">/</span>
@@ -1409,23 +1489,20 @@
 
 
 
-  
-  
-
 
 
 <script
   crossorigin="anonymous"
-  integrity="sha256-fq2IWQj0EO6HybIU5Gh5TC459bLu9aqHAfqz1BythHk="
-  src="/js/script.min.7ead885908f410ee87c9b214e468794c2e39f5b2eef5aa8701fab3d41cad8479.js"></script>
+  integrity=""
+  src="/js/script.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity="sha256-Tepkyiz3fPNRN5b/zeXpMa&#43;kXqPe6OTOVk&#43;Kdey5R0k="
-  src="/js/script-lazy.min.4dea64ca2cf77cf3513796ffcde5e931afa45ea3dee8e4ce564f8a75ecb94749.js"></script>
+  integrity=""
+  src="/js/script-lazy.js"></script>
 
 
 

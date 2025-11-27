@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompting on Hugoplate</title>
+    <link>https://taiwan-ai-academy.github.io/en/tags/prompting/</link>
+    <description>Recent content in Prompting on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/en/tags/prompting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building with AI</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/building-with-ai/</link>
+      <pubDate>Tue, 01 Oct 2024 09:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/building-with-ai/</guid>
+      <description>&lt;p&gt;AI features are only useful when they actually ship. Keep the scaffolding light, prefer smaller feedback loops, and bias toward automation that is observable.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

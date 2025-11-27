@@ -1,7 +1,7 @@
 {
   "name": "Hugoplate",
   "short_name": "Hugoplate",
-  "lang": "en-us",
+  "lang": "zh-tw",
   "display": "fullscreen",
   "orientation" : "portrait",
   "start_url": "https://taiwan-ai-academy.github.io/?utm_source=web_app_manifest",

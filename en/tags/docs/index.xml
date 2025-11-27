@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Hugoplate</title>
+    <link>https://taiwan-ai-academy.github.io/en/tags/docs/</link>
+    <description>Recent content in Docs on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 08:00:00 +0000</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/en/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Markdown that Ages Well</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/writing-markdown-that-ages-well/</link>
+      <pubDate>Tue, 11 Jun 2024 08:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/writing-markdown-that-ages-well/</guid>
+      <description>&lt;p&gt;Prefer short files, descriptive headings, and local examples. Future you will thank you for removing jokes and adding a &lt;code&gt;Last updated&lt;/code&gt; note when facts change.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

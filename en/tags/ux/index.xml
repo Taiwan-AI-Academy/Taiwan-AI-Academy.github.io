@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ux on Hugoplate</title>
+    <link>https://taiwan-ai-academy.github.io/en/tags/ux/</link>
+    <description>Recent content in Ux on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Aug 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/en/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI Polish in 30 Minutes</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/ui-polish-in-30-minutes/</link>
+      <pubDate>Thu, 22 Aug 2024 16:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/ui-polish-in-30-minutes/</guid>
+      <description>&lt;p&gt;Run this sprint-friendly checklist when an interface feels off:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tighten spacing by standardizing padding tokens and removing stray margins.&lt;/li&gt;&#xA;&lt;li&gt;Anchor text styles to two headline sizes and one body size to avoid randomness.&lt;/li&gt;&#xA;&lt;li&gt;Add subtle focus states so keyboard flows remain visible.&lt;/li&gt;&#xA;&lt;li&gt;Swap blurry assets for SVGs or WebP exports to reduce layout shift.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Small touches compound; ship the pass and iterate rather than wait for perfect mocks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

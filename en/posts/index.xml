@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugoplate</title>
+    <link>https://taiwan-ai-academy.github.io/en/posts/</link>
+    <description>Recent content in Posts on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building with AI</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/building-with-ai/</link>
+      <pubDate>Tue, 01 Oct 2024 09:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/building-with-ai/</guid>
+      <description>&lt;p&gt;AI features are only useful when they actually ship. Keep the scaffolding light, prefer smaller feedback loops, and bias toward automation that is observable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Onboarding Checklist</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/data-onboarding-checklist/</link>
+      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/data-onboarding-checklist/</guid>
+      <description>&lt;p&gt;Before wiring a new feed into production, walk through this short list:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UI Polish in 30 Minutes</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/ui-polish-in-30-minutes/</link>
+      <pubDate>Thu, 22 Aug 2024 16:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/ui-polish-in-30-minutes/</guid>
+      <description>&lt;p&gt;Run this sprint-friendly checklist when an interface feels off:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tighten spacing by standardizing padding tokens and removing stray margins.&lt;/li&gt;&#xA;&lt;li&gt;Anchor text styles to two headline sizes and one body size to avoid randomness.&lt;/li&gt;&#xA;&lt;li&gt;Add subtle focus states so keyboard flows remain visible.&lt;/li&gt;&#xA;&lt;li&gt;Swap blurry assets for SVGs or WebP exports to reduce layout shift.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Small touches compound; ship the pass and iterate rather than wait for perfect mocks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shipping Faster with Feature Flags</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/shipping-faster-with-feature-flags/</link>
+      <pubDate>Wed, 03 Jul 2024 10:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/shipping-faster-with-feature-flags/</guid>
+      <description>&lt;p&gt;Feature flags shine when they are boring: every experiment gets a name, an owner, and a removal plan. Keep the code path slim so toggling off is instant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing Markdown that Ages Well</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/writing-markdown-that-ages-well/</link>
+      <pubDate>Tue, 11 Jun 2024 08:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/writing-markdown-that-ages-well/</guid>
+      <description>&lt;p&gt;Prefer short files, descriptive headings, and local examples. Future you will thank you for removing jokes and adding a &lt;code&gt;Last updated&lt;/code&gt; note when facts change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keeping Hugo Content Organized</title>
+      <link>https://taiwan-ai-academy.github.io/en/posts/keeping-hugo-content-organized/</link>
+      <pubDate>Sat, 18 May 2024 14:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/en/posts/keeping-hugo-content-organized/</guid>
+      <description>&lt;p&gt;Use section folders to scope list templates, and keep shared taxonomies lean. When adding a new content type, start with a dedicated &lt;code&gt;_index.md&lt;/code&gt; that documents how to contribute.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
