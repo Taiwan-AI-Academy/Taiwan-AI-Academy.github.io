@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:5241/</loc>
+    <loc>http://localhost:10889/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/categories/application/</loc>
+    <loc>http://localhost:10889/categories/application/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/categories/architecture/</loc>
+    <loc>http://localhost:10889/categories/architecture/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/blog/</loc>
+    <loc>http://localhost:10889/blog/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/categories/</loc>
+    <loc>http://localhost:10889/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/categories/data/</loc>
+    <loc>http://localhost:10889/categories/data/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/blog/post-1/</loc>
+    <loc>http://localhost:10889/blog/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/blog/post-2/</loc>
+    <loc>http://localhost:10889/blog/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/blog/post-3/</loc>
+    <loc>http://localhost:10889/blog/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/blog/post-4/</loc>
+    <loc>http://localhost:10889/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/tags/nextjs/</loc>
+    <loc>http://localhost:10889/tags/nextjs/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/tags/silicon/</loc>
+    <loc>http://localhost:10889/tags/silicon/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/categories/software/</loc>
+    <loc>http://localhost:10889/categories/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/tags/software/</loc>
+    <loc>http://localhost:10889/tags/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/tags/</loc>
+    <loc>http://localhost:10889/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/tags/tailwind/</loc>
+    <loc>http://localhost:10889/tags/tailwind/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/categories/technology/</loc>
+    <loc>http://localhost:10889/categories/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/tags/technology/</loc>
+    <loc>http://localhost:10889/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:5241/authors/</loc>
+    <loc>http://localhost:10889/authors/</loc>
   </url><url>
-    <loc>http://localhost:5241/contact/</loc>
+    <loc>http://localhost:10889/contact/</loc>
   </url><url>
-    <loc>http://localhost:5241/elements/</loc>
+    <loc>http://localhost:10889/elements/</loc>
   </url><url>
-    <loc>http://localhost:5241/about/</loc>
+    <loc>http://localhost:10889/about/</loc>
   </url><url>
-    <loc>http://localhost:5241/authors/john-doe/</loc>
+    <loc>http://localhost:10889/authors/john-doe/</loc>
   </url><url>
-    <loc>http://localhost:5241/pages/</loc>
+    <loc>http://localhost:10889/pages/</loc>
   </url><url>
-    <loc>http://localhost:5241/privacy-policy/</loc>
+    <loc>http://localhost:10889/privacy-policy/</loc>
   </url><url>
-    <loc>http://localhost:5241/authors/sam-wilson/</loc>
+    <loc>http://localhost:10889/authors/sam-wilson/</loc>
   </url><url>
-    <loc>http://localhost:5241/sections/</loc>
+    <loc>http://localhost:10889/sections/</loc>
   </url><url>
-    <loc>http://localhost:5241/authors/william-jacob/</loc>
+    <loc>http://localhost:10889/authors/william-jacob/</loc>
   </url>
 </urlset>
