@@ -15,5 +15,26 @@
       <guid>https://taiwan-ai-academy.github.io/privacy-policy/</guid>
       <description>&lt;p&gt;這是一份示範用的隱私權政策。本站採用靜態網站架構，不會主動收集或販售個人資料。若您透過表單聯繫，我們僅會使用所填資訊回覆您的需求，不會額外分享給第三方。&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>中階班</title>
+      <link>https://taiwan-ai-academy.github.io/intermediate-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/intermediate-class/</guid>
+      <description>&lt;p&gt;這裡是中階班的內容區域。將完整的課程 Markdown 內容放進這個檔案即可顯示在新頁籤中。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>初階班</title>
+      <link>https://taiwan-ai-academy.github.io/beginner-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/beginner-class/</guid>
+      <description>&lt;p&gt;這裡是初階班的內容區域。將完整的課程 Markdown 內容放進這個檔案即可顯示在新頁籤中。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>高階班</title>
+      <link>https://taiwan-ai-academy.github.io/advanced-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/advanced-class/</guid>
+      <description>&lt;p&gt;這裡是高階班的內容區域。將完整的課程 Markdown 內容放進這個檔案即可顯示在新頁籤中。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
