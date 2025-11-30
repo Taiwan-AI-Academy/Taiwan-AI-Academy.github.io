@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on 2026 AIA台灣人工智慧學校分享平台</title>
+    <link>https://taiwan-ai-academy.github.io/categories/computer-vision/</link>
+    <description>Recent content in Computer Vision on 2026 AIA台灣人工智慧學校分享平台</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 30 Nov 2025 10:01:43 +0800</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/categories/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta新一代影像理解模型</title>
+      <link>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</link>
+      <pubDate>Sun, 30 Nov 2025 10:01:43 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</guid>
+      <description>&lt;p&gt;視覺場景中尋找並分割任何物體的能力，是多模態人工智慧的基礎要素。SAM 3 讓這項能力從「單一物體」跨越到「概念級」的偵測與追蹤。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

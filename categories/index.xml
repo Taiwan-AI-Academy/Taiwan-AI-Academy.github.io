@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugoplate</title>
+    <title>Categories on 2026 AIA台灣人工智慧學校分享平台</title>
     <link>https://taiwan-ai-academy.github.io/categories/</link>
-    <description>Recent content in Categories on Hugoplate</description>
+    <description>Recent content in Categories on 2026 AIA台灣人工智慧學校分享平台</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 27 Nov 2025 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 10:01:43 +0800</lastBuildDate>
     <atom:link href="https://taiwan-ai-academy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://taiwan-ai-academy.github.io/categories/ai/</link>
-      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
+      <pubDate>Sun, 30 Nov 2025 10:01:43 +0800</pubDate>
       <guid>https://taiwan-ai-academy.github.io/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>https://taiwan-ai-academy.github.io/categories/computer-vision/</link>
+      <pubDate>Sun, 30 Nov 2025 10:01:43 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/categories/computer-vision/</guid>
       <description></description>
     </item>
     <item>

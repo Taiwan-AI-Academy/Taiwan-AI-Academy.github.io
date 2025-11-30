@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://taiwan-ai-academy.github.io/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/ai/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -41,11 +41,14 @@
                 href="https://taiwan-ai-academy.github.io/categories/"
                 />
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/posts/openai-weight-sparse-transformers/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
+    <loc>https://taiwan-ai-academy.github.io/categories/computer-vision/</loc>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</loc>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -57,11 +60,8 @@
                 href="https://taiwan-ai-academy.github.io/tags/"
                 />
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/tags/transformer/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://taiwan-ai-academy.github.io/posts/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -72,6 +72,18 @@
                 hreflang="zh-tw"
                 href="https://taiwan-ai-academy.github.io/posts/"
                 />
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E5%A4%9A%E6%A8%A1%E6%85%8B/</loc>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E5%BD%B1%E5%83%8F%E7%90%86%E8%A7%A3/</loc>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/openai-weight-sparse-transformers/</loc>
+    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/transformer/</loc>
+    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7/</loc>
     <lastmod>2025-11-27T09:00:00+08:00</lastmod>
