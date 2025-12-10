@@ -1,0 +1,1301 @@
+<!doctype html>
+<html
+  itemscope
+  class=""
+  lang="zh-tw"
+  itemtype="http://schema.org/WebPage">
+  <head>
+    
+    <meta charset="utf-8" />
+
+
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+
+<meta name="theme-name" content="hugoplate" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="shortcut icon" href="/images/favicon_hu_4384881fdc2d307e.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon_hu_4384881fdc2d307e.png" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="48x48" href="/images/favicon_hu_79c3559174e61a5e.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon_hu_4384881fdc2d307e.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon_hu_cfffba76e19e8ff2.png">
+
+
+
+
+
+
+
+
+<link rel="manifest" href="/manifest.webmanifest" />
+<meta
+  name="msapplication-TileColor"
+  content="#ddd" />
+<meta
+  name="theme-color"
+  content="#ffffff" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <base href="https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/" />
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+  
+
+
+
+<title>由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta
+    name="keywords"
+    content="Boilerplate, Hugo" />
+
+
+
+
+<meta name="description" content="AI Coding 領域的百科全書與實戰手冊，梳理 2021-2025 代碼大模型如何演進為能獨立解決軟體工程問題的智慧體。" />
+
+
+
+  <meta name="author" content="zeon.studio" />
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://taiwan-ai-academy.github.io/images/596252328_3140011776169974_6723159655943019573_n.jpg" />
+  <meta property="og:image" content="https://taiwan-ai-academy.github.io/images/596252328_3140011776169974_6723159655943019573_n.jpg" />
+
+
+
+
+
+<meta property="og:title" content="由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications" />
+<meta property="og:description" content="AI Coding 領域的百科全書與實戰手冊，梳理 2021-2025 代碼大模型如何演進為能獨立解決軟體工程問題的智慧體。" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/" />
+
+
+<meta name="twitter:title" content="由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications" />
+<meta name="twitter:description" content="AI Coding 領域的百科全書與實戰手冊，梳理 2021-2025 代碼大模型如何演進為能獨立解決軟體工程問題的智慧體。" />
+
+
+  <meta name="twitter:site" content="@zeon_studio" />
+
+
+  <meta name="twitter:creator" content="@zeon.studio" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  let indexURL = "https://taiwan-ai-academy.github.io/searchindex.json";
+  let includeSectionsInSearch = ["blog"];
+  let search_no_results = "找不到結果：";
+  let search_initial_message = "輸入關鍵字開始搜尋...";
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="preconnect" href="https://use.fontawesome.com" crossorigin />
+<link rel="preconnect" href="//cdnjs.cloudflare.com" />
+<link rel="preconnect" href="//www.googletagmanager.com" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="https://use.fontawesome.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="dns-prefetch" href="//platform.linkedin.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<script>
+  (function () {
+    const googleFont = document.createElement("link");
+    googleFont.href = "https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Signika:wght@500;700&display=swap";
+    googleFont.type = "text/css";
+    googleFont.rel = "stylesheet";
+    document.head.appendChild(googleFont);
+  })();
+</script>
+
+
+
+
+
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+<link
+  href="/css/style.cda4a4a584ddc57b165f761f5cff778d9ffef78ad5de541e071c0a9a7a152c01.css"
+  integrity="sha256-zaSkpYTdxXsWX3YfXP93jZ/&#43;94rV3lQeBxwKmnoVLAE="
+  rel="stylesheet" />
+
+
+<link
+  rel="stylesheet"
+  href="/css/style-lazy.min.9e7e035d2f064fe004383f2ffc11a8f2966ef7b51c5fb2fac926e35c0061b5cf.css"
+  integrity="sha256-nn4DXS8GT&#43;AEOD8v/BGo8pZu97UcX7L6ySbjXABhtc8="
+  media="print"
+  onload="this.media='all'; this.onload=null;" />
+
+
+  </head>
+
+  <body>
+    
+    
+      
+
+
+
+      
+
+    
+
+
+    
+    
+
+
+  <div id="announcement" class="announcement announcement-hide">
+    <span class='text-center block'>♥️ Loving Hugoplate? <a class='underline' href='https://github.com/zeon-studio/hugoplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>
+    <button id="announcement-button" class="announcement-button">
+      &times;
+    </button>
+  </div>
+
+  
+  <style>
+    .announcement {
+      position: relative;
+      z-index: 999;
+      padding: 1rem;
+      padding-right: 2.8rem;
+      background-color: #fff;
+      box-shadow: 1px 0px 10px 7px rgba(154, 154, 154, 0.11);
+      font-size: 1.1rem;
+    }
+    .announcement-button {
+      cursor: pointer;
+      padding: 0 0.5rem;
+      border: 0;
+      font-size: 1.3rem;
+      position: absolute;
+      top: 50%;
+      right: 1rem;
+      transform: translateY(-50%);
+      border: 1px solid;
+      border-radius: 50%;
+      height: 1.1em;
+      width: 1.1em;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .announcement-hide {
+      display: none;
+    }
+    .dark .announcement {
+      background-color: #222;
+    }
+  </style>
+
+
+
+
+    
+    <header
+  class="header sticky top-0 z-30">
+  <nav class="navbar container">
+    
+    <div class="order-0">
+      
+      <a class="navbar-brand block" href="/">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+  
+  
+    
+    
+  
+
+
+  
+  
+      
+      
+    
+    
+    
+    
+    
+    
+  
+  
+
+  
+  
+    
+    
+      
+      
+
+
+      
+      
+        
+        
+        
+        
+
+        
+        
+        
+      
+      
+    
+  
+  
+
+  
+    <img
+      fetchpriority="high"
+      decoding="async"
+      class="img img-light"
+      width="160"
+      height="32"
+      src="/images/logo_hu_9b9c2c0c4eeb5033.webp"
+      alt="AIA台灣人工智慧學校"
+      onerror="this.onerror=null;this.src='\/images\/logo_hu_e7a91452a4b0924d.png';" />
+
+    <img
+      fetchpriority="high"
+      decoding="async"
+      class="img img-dark"
+      width="160"
+      height="32"
+      src="/images/logo-darkmode_hu_9b9c2c0c4eeb5033.webp"
+      alt="AIA台灣人工智慧學校"
+      onerror="this.onerror=null;this.src='\/images\/logo-darkmode_hu_e7a91452a4b0924d.png';" />
+  
+  
+
+
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Menu Open</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Menu Close</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/"
+              >首頁</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/about"
+              >關於我們</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/posts"
+              >文章</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/contact"
+              >聯絡</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/beginner-class"
+              >初階班</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/intermediate-class"
+              >中階班</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/advanced-class"
+              >高階班</a
+            >
+          </li>
+        
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+      
+        
+          <button
+            aria-label="search"
+            class="border-border text-text-dark hover:text-primary
+            dark:border-darkmode-border mr-5 inline-block border-r pr-5
+            text-xl dark:text-white cursor-pointer dark:hover:text-darkmode-primary
+            "
+            data-target="search-modal">
+            <i class="fa-solid fa-search"></i>
+          </button>
+        
+      
+
+      
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+  
+
+
+<div class="relative inline-flex items-center text-text-dark dark:text-white mr-5">
+  <i class="fa-solid fa-earth-americas mr-2 text-base"></i>
+  <div class="relative">
+    <select
+      class="appearance-none cursor-pointer rounded border border-border bg-white pl-3 pr-8 py-1 text-sm dark:border-darkmode-border dark:bg-darkmode-light focus:outline-none focus:ring-2 focus:ring-primary transition"
+      onchange="location = this.value">
+      
+        
+        
+        
+          <option
+            id="en"
+            value="https://taiwan-ai-academy.github.io/en/"
+          
+            >
+            En
+          </option>
+        
+      
+        
+        
+        
+          <option
+            id="zh-hant"
+            value="https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/"
+          
+            selected
+          
+            >
+            繁體中文
+          </option>
+        
+      
+    </select>
+    <span class="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-xs text-text-light dark:text-darkmode-text">
+      <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 10.94l3.71-3.71a.75.75 0 1 1 1.06 1.06l-4.24 4.24a.75.75 0 0 1-1.06 0L5.21 8.29a.75.75 0 0 1 .02-1.08z" />
+      </svg>
+    </span>
+  </div>
+</div>
+
+
+      
+
+
+  <button
+    class="theme-switcher mr-5 invisible"
+    type="button"
+    data-theme-switcher
+    aria-label="切換深色模式"
+    aria-pressed="false">
+    <svg viewBox="0 0 24 24" fill="none" height="18" width="18" aria-hidden="true">
+      <path
+        fill="currentColor"
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M8.2 2.2c1-.4 2 .6 1.6 1.5-1 3-.4 6.4 1.8 8.7a8.4 8.4 0 0 0 8.7 1.8c1-.3 2 .5 1.5 1.5v.1a10.3 10.3 0 0 1-9.4 6.2A10.3 10.3 0 0 1 3.2 6.7c1-2 2.9-3.5 4.9-4.4Z" />
+    </svg>
+  </button>
+
+  
+  <script>
+    (function () {
+      var switcher = document.querySelector("[data-theme-switcher]");
+      if (!switcher) return;
+
+      var darkMode = localStorage.getItem("theme") === "dark";
+
+      if (localStorage.getItem("theme") === null) {
+        darkMode = false;
+        
+        if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          darkMode = true;
+        }
+        
+      }
+
+      function applyTheme() {
+        if (darkMode) {
+          document.documentElement.classList.add("dark");
+        } else {
+          document.documentElement.classList.remove("dark");
+        }
+        switcher.setAttribute("aria-pressed", darkMode ? "true" : "false");
+      }
+
+      applyTheme();
+      switcher.classList.remove("invisible");
+
+      switcher.addEventListener("click", function () {
+        darkMode = !darkMode;
+        applyTheme();
+        localStorage.setItem("theme", darkMode ? "dark" : "light");
+      });
+    })();
+  </script>
+
+
+    </div>
+  </nav>
+</header>
+
+    
+
+
+
+
+  
+    <div
+      class="search-modal "
+      aria-hidden="true"
+      style="--color-primary: #121212">
+      <div data-target="close-search-modal" class="search-modal-overlay"></div>
+      <div
+        class="search-wrapper"
+        data-image="true"
+        data-description="true"
+        data-tags="true"
+        data-categories="true">
+        <div class="search-wrapper-header">
+          <label for="search-modal-input" style="margin-top:-1px">
+            <span class="sr-only">search icon</span>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 512 512"
+              height="18"
+              width="18"
+              class="search-icon"
+              data-type="search">
+              <path
+                fill="currentColor"
+                d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z" />
+            </svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 512 512"
+              height="18"
+              width="18"
+              class="search-reset"
+              data-type="reset">
+              <path
+                fill="currentColor"
+                d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM175 175c9.4-9.4 24.6-9.4 33.9 0l47 47 47-47c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-47 47 47 47c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-47-47-47 47c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l47-47-47-47c-9.4-9.4-9.4-24.6 0-33.9z" />
+            </svg>
+          </label>
+          <input
+            id="search-modal-input"
+            type="text"
+            data-search-input
+            autocomplete="off"
+            aria-label="Search"
+            placeholder="搜尋文章..." />
+        </div>
+        <div class="search-wrapper-body">
+          <div class="search-result" data-search-result></div>
+          <span class="search-result-empty">
+            輸入關鍵字開始搜尋...
+          </span>
+        </div>
+        <div class="search-wrapper-footer">
+          <span>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                fill="currentColor"
+                viewBox="0 0 16 16">
+                <path
+                  d="M3.204 11h9.592L8 5.519 3.204 11zm-.753-.659 4.796-5.48a1 1 0 0 1 1.506 0l4.796 5.48c.566.647.106 1.659-.753 1.659H3.204a1 1 0 0 1-.753-1.659z" />
+              </svg>
+            </kbd>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14"
+                height="14"
+                fill="currentColor"
+                style="margin-top:1px;"
+                viewBox="0 0 16 16">
+                <path
+                  d="M3.204 5h9.592L8 10.481 3.204 5zm-.753.659 4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
+              </svg>
+            </kbd>
+            方向鍵移動
+          </span>
+          <span>
+            <kbd>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="12"
+                height="12"
+                fill="currentColor"
+                style="display:inline-block;"
+                viewBox="0 0 16 16">
+                <path
+                  fill-rule="evenodd"
+                  d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z" />
+              </svg>
+            </kbd>
+            Enter 選擇
+          </span>
+          <span class="search-result-info"></span>
+          <span data-target="close-search-modal">
+            <kbd>ESC</kbd> Esc 關閉
+          </span>
+        </div>
+      </div>
+    </div>
+  
+
+
+
+
+    <main>
+      
+  <section>
+  <div class="container text-center">
+    <div
+      class="from-body to-light dark:from-darkmode-body dark:to-darkmode-light rounded-2xl bg-gradient-to-b px-8 py-14">
+      <h1>由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications</h1>
+      
+
+
+
+
+<ul class="mt-6 inline-flex space-x-1 capitalize">
+  <li>
+    <a class="text-primary dark:text-darkmode-primary" href="https://taiwan-ai-academy.github.io/">
+      首頁
+    </a>
+    <span class="inlin-block mr-1">/</span>
+  </li>
+  
+    
+  
+    
+      <li>
+        <a
+          class="text-primary dark:text-darkmode-primary"
+          href="/posts/">
+          文章
+        </a>
+        <span class="inlin-block mr-1">/</span>
+      </li>
+    
+  
+  <li>
+    <span class="text-primary dark:text-darkmode-primary">
+      由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications
+    </span>
+  </li>
+</ul>
+
+    </div>
+  </div>
+</section>
+
+
+
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="lg:col-10">
+          <div class="content">
+            <p>這是一本 AI Coding 領域的「百科全書」與「實戰手冊」。它梳理了從 2021 年到 2025 年代碼大模型（Code LLMs）的爆炸式增長，揭示 AI 如何從簡單的程式碼補全工具，進化為能夠獨立解決複雜軟體工程問題的智慧體。</p>
+<h2 id="研究目的">研究目的</h2>
+<p>系統地綜合分析並提供 Code LLMs 的實用指南，涵蓋從資料策展到後續訓練（如 SFT、RL），以及自主程式碼代理的完整模型生命週期。
+目標是分析 LLMs 與 Code LLMs 的能力，並批判性檢視技術、設計決策與權衡；同時闡明學術研究與實際部署的落差，將有前景的研究方向對應到實務需求。</p>
+<h2 id="研究方法">研究方法</h2>
+<p>採用全面的文獻綜合與實證分析結合的方法。具體包括：系統性考察程式碼預訓練、監督式微調（SFT）、強化學習（RL）等技術；分析先進的提示範式與自主編程代理；並透過實驗全面檢驗縮放定律、框架選擇、超參數敏感度、模型架構與資料集比較。</p>
+<h2 id="主要結果">主要結果</h2>
+<ul>
+<li>性能大幅提升：Code LLMs 在 HumanEval 等基準測試上的成功率已提高到 95% 以上。</li>
+<li>模型趨向專業化：雖然通用 LLMs 具廣泛性，但 Code LLMs 在程式碼基準上的性能更優。</li>
+<li>發現安全漏洞：實證顯示，即使功能正確的程式碼，約 45% 的生成內容仍可能包含已知漏洞，凸顯安全與可靠性風險。</li>
+<li>訓練參數敏感性：模型性能對全球批次大小與學習率高度敏感，特別在 MoE 架構中穩定性裕度更窄。</li>
+<li>訓練策略需以結果為導向：僅靠模仿學習（SFT）不足以保證程式碼正確性；利用可驗證獎勵（如單元測試）的 RLVR 是提升可信度與準確度的關鍵。</li>
+<li>開源生態成熟：StarCoder2、DeepSeek-Coder-V2 等開源模型在版權合規、PII 隱私保護的數據治理與 MoE 架構效率上進步，正縮小與閉源模型的性能差距。</li>
+<li>長上下文仍具挑戰：即使上下文視窗擴大，LLMs 在大型專案、跨檔案依賴追蹤與全域推理等程式碼庫級任務上仍面臨困難。</li>
+</ul>
+<h2 id="研究結論">研究結論</h2>
+<p>Code LLMs 正從通用基礎模型轉向領域對齊與專業化系統，結合深度編程知識與自主問題解決能力。未來趨勢聚焦以可驗證獎勵的強化學習（RLVR）訓練自主代理，打造端到端的軟體工程生態。</p>
+<h2 id="重點整理">重點整理</h2>
+<ul>
+<li>AI coding 成為商業主流：LLMs 已能將自然語言直譯為功能程式碼，推動 GitHub Copilot、Cursor 等工具落地。</li>
+<li>專用模型更具優勢：為達專業級正確性與安全性，專為程式碼訓練的 Code LLMs 在大型程式庫上下文理解上優於通用模型。</li>
+<li>自主軟體代理是前沿：焦點從補碼轉向可執行多步任務的 SWE Agents，涵蓋需求、編輯、除錯與測試全生命週期。</li>
+<li>程式碼生成隱藏安全風險：約 45% 生成程式碼含已知漏洞，源於未經策展的資料；安全需成為訓練首要目標。</li>
+<li>論文網址：https://arxiv.org/pdf/2511.18538</li>
+</ul>
+<h2 id="視覺摘要">視覺摘要</h2>
+<p><img src="/images/596252328_3140011776169974_6723159655943019573_n.jpg" alt="Code Intelligent Era 示意">
+<img src="/images/596323167_3140012086169943_5205045372536183805_n.jpg" alt="Code LLMs 演進路線圖"></p>
+<h2 id="為什麼值得讀">為什麼值得讀</h2>
+<ul>
+<li>來自北航、阿里巴巴、字節跳動、上海 AI 實驗室等頂尖機構的聯合重磅綜述。</li>
+<li>細緻回顧 Code LLM 的技術里程碑，涵蓋預訓練、對齊、工具使用與推理能力演進。</li>
+<li>兼顧學術與產業實踐，提供從模型選型到部署落地的全鏈路視角。</li>
+</ul>
+<h2 id="核心脈絡">核心脈絡</h2>
+<ul>
+<li><strong>從模型到智慧體</strong>：說明 Code LLM 如何透過 RAG、程式規劃與多輪工具調用，成為具備任務拆解和自我修正能力的 Agent。</li>
+<li><strong>資料與對齊</strong>：總結程式語料清洗、單元測試增強、合成資料生成，以及 RLHF / RLAIF 在程式領域的挑戰。</li>
+<li><strong>工具與插件生態</strong>：覆蓋編譯器、測試框架、CI/CD、雲端函式與資料庫等多種外部工具的協同模式。</li>
+<li><strong>安全與可信</strong>：探討漏洞生成、授權合規、資料洩漏與模型幻覺的防護策略。</li>
+</ul>
+<h2 id="實務指南亮點">實務指南亮點</h2>
+<ul>
+<li>針對不同場景（IDE 助理、自動修復、程式庫遷移、程式碼審查）給出模型選型與管線設計建議。</li>
+<li>提供評測指標與基準（如 HumanEval、CodeContests、BigCodeBench）以及如何結合內部真實任務做客製化評估。</li>
+<li>分享佈署與監控清單：延遲/吞吐、成本預算、回傳資料安全、灰度發布與回滾策略。</li>
+</ul>
+<h2 id="未來展望">未來展望</h2>
+<p>報告指出，Code LLM 正朝「可驗證、可調試、可協作」的方向進化。結合更強的規劃能力、程序化反饋與可觀察性，AI 開發助手將逐步成為團隊中的「共創夥伴」，而非僅是補碼工具。</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    </main>
+
+    
+    <footer class="bg-light dark:bg-darkmode-light">
+  <div class="container">
+    <div class="row items-center py-10">
+      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left">
+        
+        <a
+          class="navbar-brand inline-block"
+          href="/">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+  
+  
+    
+    
+  
+
+
+  
+  
+      
+      
+    
+    
+    
+    
+    
+    
+  
+  
+
+  
+  
+    
+    
+      
+      
+
+
+      
+      
+        
+        
+        
+        
+
+        
+        
+        
+      
+      
+    
+  
+  
+
+  
+    <img
+      fetchpriority="high"
+      decoding="async"
+      class="img img-light"
+      width="160"
+      height="32"
+      src="/images/logo_hu_9b9c2c0c4eeb5033.webp"
+      alt="AIA台灣人工智慧學校"
+      onerror="this.onerror=null;this.src='\/images\/logo_hu_e7a91452a4b0924d.png';" />
+
+    <img
+      fetchpriority="high"
+      decoding="async"
+      class="img img-dark"
+      width="160"
+      height="32"
+      src="/images/logo-darkmode_hu_9b9c2c0c4eeb5033.webp"
+      alt="AIA台灣人工智慧學校"
+      onerror="this.onerror=null;this.src='\/images\/logo-darkmode_hu_e7a91452a4b0924d.png';" />
+  
+  
+
+
+        </a>
+      </div>
+      <div class="lg:col-6 mb-8 text-center lg:mb-0">
+        <ul>
+          
+            <li class="m-3 inline-block">
+              <a
+                
+                href="
+                  /about
+                "
+                >關於我們</a
+              >
+            </li>
+          
+            <li class="m-3 inline-block">
+              <a
+                
+                href="
+                  /posts
+                "
+                >文章</a
+              >
+            </li>
+          
+            <li class="m-3 inline-block">
+              <a
+                
+                href="
+                  /privacy-policy
+                "
+                >隱私權政策</a
+              >
+            </li>
+          
+        </ul>
+      </div>
+      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:mt-0 lg:text-right">
+        <ul class="social-icons">
+          
+            <li>
+              <a
+                target="_blank"
+                aria-label="facebook"
+                rel="nofollow noopener"
+                href="https://www.facebook.com/">
+                <i class="fab fa-facebook"></i>
+              </a>
+            </li>
+          
+            <li>
+              <a
+                target="_blank"
+                aria-label="twitter"
+                rel="nofollow noopener"
+                href="https://twitter.com/">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          
+            <li>
+              <a
+                target="_blank"
+                aria-label="github"
+                rel="nofollow noopener"
+                href="https://www.github.com/">
+                <i class="fab fa-github"></i>
+              </a>
+            </li>
+          
+            <li>
+              <a
+                target="_blank"
+                aria-label="linkedin"
+                rel="nofollow noopener"
+                href="https://www.linkedin.com/">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="border-border dark:border-darkmode-border border-t py-7">
+    <div
+      class="text-text-light dark:text-darkmode-text-light container text-center">
+      <p>
+        Designed &amp; Developed by <a href="https://zeon.studio"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Zeon Studio</a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+
+
+    
+    
+
+
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+  
+    
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<script
+  crossorigin="anonymous"
+  integrity="sha256-fq2IWQj0EO6HybIU5Gh5TC459bLu9aqHAfqz1BythHk="
+  src="/js/script.min.7ead885908f410ee87c9b214e468794c2e39f5b2eef5aa8701fab3d41cad8479.js"></script>
+
+
+<script
+  defer
+  async
+  crossorigin="anonymous"
+  integrity="sha256-Tepkyiz3fPNRN5b/zeXpMa&#43;kXqPe6OTOVk&#43;Kdey5R0k="
+  src="/js/script-lazy.min.4dea64ca2cf77cf3513796ffcde5e931afa45ea3dee8e4ce564f8a75ecb94749.js"></script>
+
+
+
+<script>
+  if ('serviceWorker' in navigator){navigator.serviceWorker.register("/service-worker.js");}
+</script>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <script type="application/javascript">
+      const announcementBox = document.getElementById('announcement');
+      const announcementButton = document.getElementById('announcement-button');
+      if (!Cookies.get('announcement-close')) {
+        announcementBox.classList.remove('announcement-hide');
+        announcementButton.onclick = function () {
+          Cookies.set('announcement-close', true, {
+            expires:  7 
+          });
+          announcementBox.classList.add('announcement-hide');
+        };
+      }
+    </script>
+  
+
+
+
+  </body>
+</html>

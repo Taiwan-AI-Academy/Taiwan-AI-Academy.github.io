@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://taiwan-ai-academy.github.io/</loc>
-    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/ai/</loc>
-    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/</loc>
-    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -41,14 +41,11 @@
                 href="https://taiwan-ai-academy.github.io/categories/"
                 />
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/categories/computer-vision/</loc>
-    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
-  </url><url>
-    <loc>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</loc>
-    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+    <loc>https://taiwan-ai-academy.github.io/tags/code-llm/</loc>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/</loc>
-    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -61,7 +58,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/posts/</loc>
-    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -72,6 +69,24 @@
                 hreflang="zh-tw"
                 href="https://taiwan-ai-academy.github.io/posts/"
                 />
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/</loc>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B/</loc>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E6%99%BA%E6%85%A7%E9%AB%94/</loc>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</loc>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/categories/computer-vision/</loc>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</loc>
+    <lastmod>2025-11-30T10:01:43+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/%E5%A4%9A%E6%A8%A1%E6%85%8B/</loc>
     <lastmod>2025-11-30T10:01:43+08:00</lastmod>

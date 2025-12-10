@@ -6,8 +6,15 @@
     <description>Recent content in 文章 on 2026 AIA台灣人工智慧學校分享平台</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 30 Nov 2025 10:01:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 13:09:30 +0800</lastBuildDate>
     <atom:link href="https://taiwan-ai-academy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications</title>
+      <link>https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/</link>
+      <pubDate>Wed, 10 Dec 2025 13:09:30 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/</guid>
+      <description>&lt;p&gt;這是一本 AI Coding 領域的「百科全書」與「實戰手冊」。它梳理了從 2021 年到 2025 年代碼大模型（Code LLMs）的爆炸式增長，揭示 AI 如何從簡單的程式碼補全工具，進化為能夠獨立解決複雜軟體工程問題的智慧體。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meta新一代影像理解模型</title>
       <link>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</link>

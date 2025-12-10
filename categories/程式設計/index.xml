@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>程式設計 on 2026 AIA台灣人工智慧學校分享平台</title>
+    <link>https://taiwan-ai-academy.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</link>
+    <description>Recent content in 程式設計 on 2026 AIA台灣人工智慧學校分享平台</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 10 Dec 2025 13:09:30 +0800</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications</title>
+      <link>https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/</link>
+      <pubDate>Wed, 10 Dec 2025 13:09:30 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/</guid>
+      <description>&lt;p&gt;這是一本 AI Coding 領域的「百科全書」與「實戰手冊」。它梳理了從 2021 年到 2025 年代碼大模型（Code LLMs）的爆炸式增長，揭示 AI 如何從簡單的程式碼補全工具，進化為能夠獨立解決複雜軟體工程問題的智慧體。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
