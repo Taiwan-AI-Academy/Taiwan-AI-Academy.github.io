@@ -223,18 +223,6 @@
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/en/authors/john-doe/</loc>
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/en/pages/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://taiwan-ai-academy.github.io/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://taiwan-ai-academy.github.io/en/pages/"
-                />
-  </url><url>
     <loc>https://taiwan-ai-academy.github.io/en/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"

@@ -6,8 +6,15 @@
     <description>Recent content in 文章 on 2026 AIA台灣人工智慧學校分享平台</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 10 Dec 2025 13:09:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 17:15:35 +0800</lastBuildDate>
     <atom:link href="https://taiwan-ai-academy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SciSciGPT AI 協作工具在《Nature Computational Science》亮相</title>
+      <link>https://taiwan-ai-academy.github.io/posts/sciscigpt-nature-computational-science/</link>
+      <pubDate>Tue, 20 Jan 2026 17:15:35 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/posts/sciscigpt-nature-computational-science/</guid>
+      <description>&lt;p&gt;科研數據這麼複雜，專家分工又太細，能不能開發出一種 AI，讓研究人員不需要變成數據工程師，也能輕鬆搞定研究流程？&lt;/p&gt;</description>
+    </item>
     <item>
       <title>由北航、阿里巴巴、字節跳動、上海 AI 實驗室等全球頂尖機構聯合發布的重磅綜述: From Code Foundation Models to Agents and Applications</title>
       <link>https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/</link>

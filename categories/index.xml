@@ -6,13 +6,20 @@
     <description>Recent content in Categories on 2026 AIA台灣人工智慧學校分享平台</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 10 Dec 2025 13:09:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 17:15:35 +0800</lastBuildDate>
     <atom:link href="https://taiwan-ai-academy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://taiwan-ai-academy.github.io/categories/ai/</link>
-      <pubDate>Wed, 10 Dec 2025 13:09:30 +0800</pubDate>
+      <pubDate>Tue, 20 Jan 2026 17:15:35 +0800</pubDate>
       <guid>https://taiwan-ai-academy.github.io/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>研究</title>
+      <link>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Tue, 20 Jan 2026 17:15:35 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <link>https://taiwan-ai-academy.github.io/categories/computer-vision/</link>
       <pubDate>Sun, 30 Nov 2025 10:01:43 +0800</pubDate>
       <guid>https://taiwan-ai-academy.github.io/categories/computer-vision/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>研究</title>
-      <link>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</link>
-      <pubDate>Thu, 27 Nov 2025 09:00:00 +0800</pubDate>
-      <guid>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</guid>
       <description></description>
     </item>
   </channel>

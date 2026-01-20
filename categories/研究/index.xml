@@ -6,8 +6,15 @@
     <description>Recent content in 研究 on 2026 AIA台灣人工智慧學校分享平台</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 27 Nov 2025 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 17:15:35 +0800</lastBuildDate>
     <atom:link href="https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SciSciGPT AI 協作工具在《Nature Computational Science》亮相</title>
+      <link>https://taiwan-ai-academy.github.io/posts/sciscigpt-nature-computational-science/</link>
+      <pubDate>Tue, 20 Jan 2026 17:15:35 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/posts/sciscigpt-nature-computational-science/</guid>
+      <description>&lt;p&gt;科研數據這麼複雜，專家分工又太細，能不能開發出一種 AI，讓研究人員不需要變成數據工程師，也能輕鬆搞定研究流程？&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 研究人員介紹一種訓練 Weight-Sparse Transformers 的典範</title>
       <link>https://taiwan-ai-academy.github.io/posts/openai-weight-sparse-transformers/</link>

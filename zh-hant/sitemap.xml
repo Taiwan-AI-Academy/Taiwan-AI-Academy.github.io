@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://taiwan-ai-academy.github.io/</loc>
-    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/ai/</loc>
-    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -28,8 +28,11 @@
                 href="https://taiwan-ai-academy.github.io/categories/ai/"
                 />
   </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/ai-%E5%8D%94%E4%BD%9C/</loc>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
+  </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/</loc>
-    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -41,11 +44,17 @@
                 href="https://taiwan-ai-academy.github.io/categories/"
                 />
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/tags/code-llm/</loc>
-    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+    <loc>https://taiwan-ai-academy.github.io/tags/nature-computational-science/</loc>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/sciscigpt/</loc>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/sciscigpt-nature-computational-science/</loc>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/</loc>
-    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -58,7 +67,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/posts/</loc>
-    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -69,6 +78,15 @@
                 hreflang="zh-tw"
                 href="https://taiwan-ai-academy.github.io/posts/"
                 />
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E5%A4%9A%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/code-llm/</loc>
+    <lastmod>2025-12-10T13:09:30+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/posts/code-foundation-models-to-agents-guide/</loc>
     <lastmod>2025-12-10T13:09:30+08:00</lastmod>
@@ -103,24 +121,11 @@
     <loc>https://taiwan-ai-academy.github.io/tags/%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7/</loc>
     <lastmod>2025-11-27T09:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2025-11-27T09:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/%E7%A8%80%E7%96%8F%E5%8C%96/</loc>
     <lastmod>2025-11-27T09:00:00+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/pages/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://taiwan-ai-academy.github.io/en/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://taiwan-ai-academy.github.io/pages/"
-                />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/privacy-policy/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
