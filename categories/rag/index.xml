@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>多模態 on 2026 AIA台灣人工智慧學校分享平台</title>
-    <link>https://taiwan-ai-academy.github.io/tags/%E5%A4%9A%E6%A8%A1%E6%85%8B/</link>
-    <description>Recent content in 多模態 on 2026 AIA台灣人工智慧學校分享平台</description>
+    <title>RAG on 2026 AIA台灣人工智慧學校分享平台</title>
+    <link>https://taiwan-ai-academy.github.io/categories/rag/</link>
+    <description>Recent content in RAG on 2026 AIA台灣人工智慧學校分享平台</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 22 Jan 2026 10:57:34 +0800</lastBuildDate>
-    <atom:link href="https://taiwan-ai-academy.github.io/tags/%E5%A4%9A%E6%A8%A1%E6%85%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://taiwan-ai-academy.github.io/categories/rag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RAG 不只要找對答案還要找對「地方」：UniversalRAG</title>
       <link>https://taiwan-ai-academy.github.io/posts/universalrag-find-the-right-place/</link>
       <pubDate>Thu, 22 Jan 2026 10:57:34 +0800</pubDate>
       <guid>https://taiwan-ai-academy.github.io/posts/universalrag-find-the-right-place/</guid>
       <description>&lt;p&gt;大家對 RAG（檢索增強生成）應該不陌生，現在的痛點在於資料不只有純文字還有圖片、表格跟影片。&#xA;目前主流的 RAG 做法，通常是把所有類型的資料全部轉成 Embedding，丟進向量資料庫。&#xA;但把不同格式的資料硬湊在同一個空間搜尋，其實效果並不好，很容易出現偏食的狀況。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta新一代影像理解模型</title>
-      <link>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</link>
-      <pubDate>Sun, 30 Nov 2025 10:01:43 +0800</pubDate>
-      <guid>https://taiwan-ai-academy.github.io/posts/meta-new-image-understanding-model/</guid>
-      <description>&lt;p&gt;視覺場景中尋找並分割任何物體的能力，是多模態人工智慧的基礎要素。SAM 3 讓這項能力從「單一物體」跨越到「概念級」的偵測與追蹤。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

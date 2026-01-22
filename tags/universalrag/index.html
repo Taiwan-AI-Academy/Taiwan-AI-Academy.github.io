@@ -2,9 +2,9 @@
 <html
   itemscope
   class=""
-  lang="en-us"
+  lang="zh-tw"
   itemtype="http://schema.org/WebPage">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     
     <meta charset="utf-8" />
 
@@ -72,6 +72,7 @@
 
 
 
+  <base href="https://taiwan-ai-academy.github.io/tags/universalrag/" />
 
 
 
@@ -104,13 +105,6 @@
 
 
 
-
-  
-    <link rel="alternate" hreflang="en" href="http://localhost:1313/en/pages/" />
-  
-    <link rel="alternate" hreflang="zh-hant" href="http://localhost:1313/pages/" />
-  
-  <link rel="alternate" hreflang="x-default" href="http://localhost:1313/en/pages/" />
 
 
 
@@ -161,8 +155,8 @@
       
       
       
-        <meta property="og:image" content="http://localhost:1313/images/og-image.png" />
-        <meta name="twitter:image" content="http://localhost:1313/images/og-image.png" />
+        <meta property="og:image" content="https://taiwan-ai-academy.github.io/images/og-image.png" />
+        <meta name="twitter:image" content="https://taiwan-ai-academy.github.io/images/og-image.png" />
         <meta
           name="twitter:card"
           content="summary_large_image" />
@@ -189,7 +183,7 @@
 <meta property="og:title" content="2026 AIA台灣人工智慧學校分享平台" />
 <meta property="og:description" content="Hugo &amp; Tailwindcss Starter" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/en/pages/" />
+<meta property="og:url" content="https://taiwan-ai-academy.github.io/tags/universalrag/" />
 
 
 <meta name="twitter:title" content="2026 AIA台灣人工智慧學校分享平台" />
@@ -220,10 +214,10 @@
 
 
 <script>
-  let indexURL = "http://localhost:1313/en/searchindex.json";
+  let indexURL = "https://taiwan-ai-academy.github.io/searchindex.json";
   let includeSectionsInSearch = ["blog"];
-  let search_no_results = "No results for";
-  let search_initial_message = "Type something to search..";
+  let search_no_results = "找不到結果：";
+  let search_initial_message = "輸入關鍵字開始搜尋...";
 </script>
 
 
@@ -326,19 +320,22 @@
 
 
 
+  
+  
+
 
 
 
 <link
-  href="/css/style.css"
-  integrity=""
+  href="/css/style.cda4a4a584ddc57b165f761f5cff778d9ffef78ad5de541e071c0a9a7a152c01.css"
+  integrity="sha256-zaSkpYTdxXsWX3YfXP93jZ/&#43;94rV3lQeBxwKmnoVLAE="
   rel="stylesheet" />
 
 
 <link
   rel="stylesheet"
-  href="/css/style-lazy.css"
-  integrity=""
+  href="/css/style-lazy.min.9e7e035d2f064fe004383f2ffc11a8f2966ef7b51c5fb2fac926e35c0061b5cf.css"
+  integrity="sha256-nn4DXS8GT&#43;AEOD8v/BGo8pZu97UcX7L6ySbjXABhtc8="
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -352,10 +349,8 @@
 
 
 
-
-
       
-      
+
     
 
 
@@ -416,7 +411,7 @@
     
     <div class="order-0">
       
-      <a class="navbar-brand block" href="/en/">
+      <a class="navbar-brand block" href="/">
         
 
 
@@ -550,8 +545,8 @@
             <a
               class="nav-link "
               
-              href="/en/"
-              >Home</a
+              href="/"
+              >首頁</a
             >
           </li>
         
@@ -564,8 +559,8 @@
             <a
               class="nav-link "
               
-              href="/en/about"
-              >About</a
+              href="/about"
+              >關於我們</a
             >
           </li>
         
@@ -578,8 +573,8 @@
             <a
               class="nav-link "
               
-              href="/en/elements"
-              >Elements</a
+              href="/posts"
+              >文章</a
             >
           </li>
         
@@ -592,8 +587,8 @@
             <a
               class="nav-link "
               
-              href="/en/posts"
-              >Posts</a
+              href="/contact"
+              >聯絡</a
             >
           </li>
         
@@ -602,99 +597,41 @@
         
         
         
-          <li class="nav-item nav-dropdown group relative">
-            <input
-              type="checkbox"
-              id="submenu-pages"
-              class="peer hidden lg:hidden" />
-            <label
-              for="submenu-pages"
-              class="nav-link 
-                
-                
-                
+          <li class="nav-item">
+            <a
+              class="nav-link "
               
-                
-                
-                
+              href="/beginner-class"
+              >初階班</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
               
-                
-                
-                
+              href="/intermediate-class"
+              >中階班</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
               
-                
-                
-                
-              
-                
-                
-                
-               inline-flex items-center">
-              Pages
-              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
-                <path
-                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-              </svg>
-            </label>
-            <ul
-              class="nav-dropdown-list hidden peer-checked:block lg:invisible lg:absolute lg:block lg:opacity-0 lg:group-hover:visible lg:group-hover:opacity-100">
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/en/404">
-                    404 Page
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/en/authors">
-                    Authors
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/en/blog">
-                    Blog
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/en/categories">
-                    Categories
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/en/contact">
-                    Contact
-                  </a>
-                </li>
-              
-            </ul>
+              href="/advanced-class"
+              >高階班</a
+            >
           </li>
         
       
@@ -731,8 +668,6 @@
 
   
 
-  
-
 
 <div class="relative inline-flex items-center text-text-dark dark:text-white mr-5">
   <i class="fa-solid fa-earth-americas mr-2 text-base"></i>
@@ -746,9 +681,7 @@
         
           <option
             id="en"
-            value="http://localhost:1313/en/pages/"
-          
-            selected
+            value="https://taiwan-ai-academy.github.io/en/"
           
             >
             En
@@ -760,7 +693,9 @@
         
           <option
             id="zh-hant"
-            value="http://localhost:1313/pages/"
+            value="https://taiwan-ai-academy.github.io/tags/universalrag/"
+          
+            selected
           
             >
             繁體中文
@@ -886,12 +821,12 @@
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Post..." />
+            placeholder="搜尋文章..." />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search..
+            輸入關鍵字開始搜尋...
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -919,7 +854,7 @@
                   d="M3.204 5h9.592L8 10.481 3.204 5zm-.753.659 4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
               </svg>
             </kbd>
-            to navigate
+            方向鍵移動
           </span>
           <span>
             <kbd>
@@ -935,11 +870,11 @@
                   d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z" />
               </svg>
             </kbd>
-            to select
+            Enter 選擇
           </span>
           <span class="search-result-info"></span>
           <span data-target="close-search-modal">
-            <kbd>ESC</kbd> to close
+            <kbd>ESC</kbd> Esc 關閉
           </span>
         </div>
       </div>
@@ -955,7 +890,7 @@
   <div class="container text-center">
     <div
       class="from-body to-light dark:from-darkmode-body dark:to-darkmode-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      <h1>Pages</h1>
+      <h1>UniversalRAG</h1>
       
 
 
@@ -963,17 +898,28 @@
 
 <ul class="mt-6 inline-flex space-x-1 capitalize">
   <li>
-    <a class="text-primary dark:text-darkmode-primary" href="http://localhost:1313/en/">
-      Home
+    <a class="text-primary dark:text-darkmode-primary" href="https://taiwan-ai-academy.github.io/">
+      首頁
     </a>
     <span class="inlin-block mr-1">/</span>
   </li>
   
     
   
+    
+      <li>
+        <a
+          class="text-primary dark:text-darkmode-primary"
+          href="/tags/">
+          標籤
+        </a>
+        <span class="inlin-block mr-1">/</span>
+      </li>
+    
+  
   <li>
     <span class="text-primary dark:text-darkmode-primary">
-      Pages
+      UniversalRAG
     </span>
   </li>
 </ul>
@@ -986,25 +932,106 @@
 
   <section class="section">
     <div class="container">
-      <ul class="text-center">
+      <div class="row gx-5">
         
-          <li class="m-3">
-            <a
-              href="http://localhost:1313/en/elements/"
-              class="text-text-dark dark:text-darkmode-text-dark block text-xl">
-              Elements
-            </a>
-          </li>
+        <div class="lg:col-8">
+          <div class="row">
+            
+              <div class="md:col-6 mb-14">
+                <div class="bg-body dark:bg-darkmode-body">
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <img
+    loading=""
+    decoding="async"
+    
+    src="https://taiwan-ai-academy.github.io/images/universalrag-concept.png"
+    alt="RAG 不只要找對答案還要找對「地方」：UniversalRAG"
+    class="mb-6 w-full rounded img"
+    height=""
+    width="" />
+
+
+  
+  <h4 class="mb-3">
+    <a href="/posts/universalrag-find-the-right-place/">
+      RAG 不只要找對答案還要找對「地方」：UniversalRAG
+    </a>
+  </h4>
+  
+  
+    <ul class="mb-4">
+      <li class="mr-4 inline-block">
+        <a href="/authors/universalrag/">
+          <i class="fa-regular fa-circle-user mr-2"></i>UniversalRAG
+        </a>
+      </li>
+      <li class="mr-4 inline-block">
+        <i class="fa-regular fa-folder mr-1"></i>
         
-          <li class="m-3">
-            <a
-              href="http://localhost:1313/en/privacy-policy/"
-              class="text-text-dark dark:text-darkmode-text-dark block text-xl">
-              Privacy
-            </a>
-          </li>
+          <a
+            href="/categories/ai/"
+            class="ms-1"
+            >Ai
+              ,
+            
+          </a>
         
-      </ul>
+          <a
+            href="/categories/rag/"
+            class="ms-1"
+            >Rag
+          </a>
+        
+      </li>
+    </ul>
+  
+  <p class="mb-6">大家對 RAG（檢索增強生成）應該不陌生，現在的痛點在於資料不只有純文字還有圖片、表格跟影片。 目前主流的 RAG 做法，通常是把所有類型的資料全部轉成 Embedding，丟進向量資料庫。 但把不同格式的資料硬湊在同一個空間搜尋，其實效果並不好，很容易出現偏食的狀況。
+</p>
+  <a class="btn btn-outline-primary btn-sm" href="/posts/universalrag-find-the-right-place/">
+    閱讀更多
+  </a>
+</div>
+
+              </div>
+            
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -1018,7 +1045,7 @@
         
         <a
           class="navbar-brand inline-block"
-          href="/en/">
+          href="/">
           
 
 
@@ -1127,9 +1154,9 @@
               <a
                 
                 href="
-                  /en/about
+                  /about
                 "
-                >About</a
+                >關於我們</a
               >
             </li>
           
@@ -1137,9 +1164,9 @@
               <a
                 
                 href="
-                  /en/elements
+                  /posts
                 "
-                >Elements</a
+                >文章</a
               >
             </li>
           
@@ -1147,9 +1174,9 @@
               <a
                 
                 href="
-                  /en/privacy-policy
+                  /privacy-policy
                 "
-                >Privacy Policy</a
+                >隱私權政策</a
               >
             </li>
           
@@ -1291,20 +1318,23 @@
 
 
 
+  
+  
+
 
 
 <script
   crossorigin="anonymous"
-  integrity=""
-  src="/js/script.js"></script>
+  integrity="sha256-fq2IWQj0EO6HybIU5Gh5TC459bLu9aqHAfqz1BythHk="
+  src="/js/script.min.7ead885908f410ee87c9b214e468794c2e39f5b2eef5aa8701fab3d41cad8479.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity=""
-  src="/js/script-lazy.js"></script>
+  integrity="sha256-ERVlJv0r9BVw&#43;veEd5&#43;D3oOJuHI8UEMwuPAD0a8FNhY="
+  src="/js/script-lazy.min.11156526fd2bf41570faf784779f83de8389b8723c504330b8f003d1af053616.js"></script>
 
 
 
