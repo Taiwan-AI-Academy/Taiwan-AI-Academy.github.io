@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://taiwan-ai-academy.github.io/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/ai/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -41,17 +41,20 @@
                 href="https://taiwan-ai-academy.github.io/categories/"
                 />
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/categories/rag/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <loc>https://taiwan-ai-academy.github.io/tags/entropic-objective/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/posts/universalrag-find-the-right-place/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <loc>https://taiwan-ai-academy.github.io/tags/nvidia/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/tags/router/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <loc>https://taiwan-ai-academy.github.io/tags/puct/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/stanford/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -63,11 +66,14 @@
                 href="https://taiwan-ai-academy.github.io/tags/"
                 />
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/tags/universalrag/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <loc>https://taiwan-ai-academy.github.io/tags/test-time-training/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/ttt-discover/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/posts/</loc>
-    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -78,6 +84,30 @@
                 hreflang="zh-tw"
                 href="https://taiwan-ai-academy.github.io/posts/"
                 />
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/ttt-discover-test-time-training/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E9%82%8A%E8%80%83%E9%82%8A%E5%AD%B8/</loc>
+    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/categories/rag/</loc>
+    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/universalrag-find-the-right-place/</loc>
+    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/router/</loc>
+    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/universalrag/</loc>
+    <lastmod>2026-01-22T10:57:34+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/%E5%A4%9A%E6%A8%A1%E6%85%8B/</loc>
     <lastmod>2026-01-22T10:57:34+08:00</lastmod>
@@ -101,9 +131,6 @@
     <lastmod>2026-01-20T17:15:35+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/%E5%A4%9A%E4%BB%A3%E7%90%86/</loc>
-    <lastmod>2026-01-20T17:15:35+08:00</lastmod>
-  </url><url>
-    <loc>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
     <lastmod>2026-01-20T17:15:35+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/code-llm/</loc>
