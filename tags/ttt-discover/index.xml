@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTT-Discover on 2026 AIA台灣人工智慧學校分享平台</title>
+    <link>https://taiwan-ai-academy.github.io/tags/ttt-discover/</link>
+    <description>Recent content in TTT-Discover on 2026 AIA台灣人工智慧學校分享平台</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 26 Jan 2026 15:33:45 +0800</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/tags/ttt-discover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>誰說 AI 訓練完就定型了？這篇論文讓模型「邊考邊學」直接刷榜</title>
+      <link>https://taiwan-ai-academy.github.io/posts/ttt-discover-test-time-training/</link>
+      <pubDate>Mon, 26 Jan 2026 15:33:45 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/posts/ttt-discover-test-time-training/</guid>
+      <description>&lt;p&gt;以前大家總覺得 LLM 訓練完就是「唯讀」狀態，要解難題只能靠 Prompt Engineering，或是讓模型多想一下。&#xA;但 Stanford 和 NVIDIA 合作的 TTT-Discover 直接打破這個框架：人類遇到難題會試錯、學習、再嘗試；那為什麼 AI 在解題時不能繼續訓練？&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
