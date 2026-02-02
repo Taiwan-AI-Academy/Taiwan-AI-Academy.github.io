@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://taiwan-ai-academy.github.io/</loc>
-    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/ai/</loc>
-    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/categories/</loc>
-    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -40,6 +40,62 @@
                 hreflang="zh-tw"
                 href="https://taiwan-ai-academy.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/dense-credit-assignment/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/grpo/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/livecodebench/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/policy-optimization/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/rlvr/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/sdpo/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/sdpo-self-distillation-policy-optimization/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/self-distillation/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://taiwan-ai-academy.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://taiwan-ai-academy.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/posts/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://taiwan-ai-academy.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://taiwan-ai-academy.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://taiwan-ai-academy.github.io/tags/%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92/</loc>
+    <lastmod>2026-02-02T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/entropic-objective/</loc>
     <lastmod>2026-01-26T15:33:45+08:00</lastmod>
@@ -53,42 +109,10 @@
     <loc>https://taiwan-ai-academy.github.io/tags/stanford/</loc>
     <lastmod>2026-01-26T15:33:45+08:00</lastmod>
   </url><url>
-    <loc>https://taiwan-ai-academy.github.io/tags/</loc>
-    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://taiwan-ai-academy.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://taiwan-ai-academy.github.io/tags/"
-                />
-  </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/test-time-training/</loc>
     <lastmod>2026-01-26T15:33:45+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/tags/ttt-discover/</loc>
-    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
-  </url><url>
-    <loc>https://taiwan-ai-academy.github.io/posts/</loc>
-    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://taiwan-ai-academy.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://taiwan-ai-academy.github.io/posts/"
-                />
-  </url><url>
-    <loc>https://taiwan-ai-academy.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2026-01-26T15:33:45+08:00</lastmod>
-  </url><url>
-    <loc>https://taiwan-ai-academy.github.io/tags/%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92/</loc>
     <lastmod>2026-01-26T15:33:45+08:00</lastmod>
   </url><url>
     <loc>https://taiwan-ai-academy.github.io/posts/ttt-discover-test-time-training/</loc>

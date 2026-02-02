@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GRPO on 2026 AIA台灣人工智慧學校分享平台</title>
+    <link>https://taiwan-ai-academy.github.io/tags/grpo/</link>
+    <description>Recent content in GRPO on 2026 AIA台灣人工智慧學校分享平台</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 02 Feb 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://taiwan-ai-academy.github.io/tags/grpo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SDPO (Self-Distillation Policy Optimization) 讓 LLM 自我檢討</title>
+      <link>https://taiwan-ai-academy.github.io/posts/sdpo-self-distillation-policy-optimization/</link>
+      <pubDate>Mon, 02 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>https://taiwan-ai-academy.github.io/posts/sdpo-self-distillation-policy-optimization/</guid>
+      <description>&lt;p&gt;現在訓練 LLM 很流行用強化學習 RL，特別是像 GRPO 這種方法。通常做法是讓模型試著解題，答對給分、答錯扣分（RLVR）。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
